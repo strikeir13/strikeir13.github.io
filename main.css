@@ -1,18 +1,23 @@
-.contact-info .container {
-	background-color: #dbdbdb;
+.container {
 	font-family: 'Roboto Condensed', sans-serif;
-	padding: 10px 150px 10px 150px;
+	padding: 10px 150px 50px 150px;
 }
 
-.contact-email p {
-	font-style: normal;
-	font-size: 1.5em;
-	color: #000000;
-	display: inline;
+.contact-info h1 {
+	margin-bottom: -10px;
 }
 
-.contact-email a {
-	font-size: 1.5em;
+.contact-info h2 {
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 14px;
+	margin-bottom: -10px;
+	padding-left: 5px;
+}
+
+.contact-info a {
+	line-height:45px;
+	padding-left:5px;
 }
 
 .work_experience_title {
