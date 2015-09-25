@@ -1,102 +1,81 @@
-.contact-info .container {
-	background-color: #EFEFEF;
-	font-family: 'Roboto Condensed', sans-serif;
-	/*padding: 10px 150px 10px 150px;*/
-	border: 3px solid #dbdbdb;
+.body {
+	font-family: 'Roboto Slab', serif;
 }
 
-.work_experience_gap {
-	height: 15px;
+.jumbotron {
+	font-family: 'Roboto Slab', serif;
 }
 
-.work_experience_title {
-	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
+.jumbotron h1 {
+	line-height: 150px;
+}
+
+.jumbotron p {
+	line-height: 17px;
+}
+
+.jumbotron a {
+	line-height: 17px;
+}
+
+.work_experience_title{
+	font-family: 'Roboto Slab', serif;
 }
 
 .work_experience_1 {
-	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
+	font-family: 'Roboto Slab', serif;
 }
 
-.work_experience_2 h3 {
-	margin-bottom: -20px;
+.work_experience_1 ul {
+	background-color: #EFEFEF;
+	border: 10px solid #dbdbdb;
 }
-.work_experience_2 h4 {
-	padding-left:5px;
-	margin-bottom: -15px;
+
+.work_experience_2 {
+	font-family: 'Roboto Slab', serif;
 }
 
 .work_experience_2 ul {
 	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
+	border: 10px solid #dbdbdb;
 }
 
-.work_experience_3 h3 {
-	margin-bottom: -20px;
-}
-.work_experience_3 h4 {
-	padding-left:5px;
-	margin-bottom: -15px;
+.work_experience_3 {
+	font-family: 'Roboto Slab', serif;
 }
 
 .work_experience_3 ul {
 	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
+	border: 10px solid #dbdbdb;
 }
 
-.work_experience_4 h3 {
-	margin-bottom: -20px;
-}
-.work_experience_4 h4 {
-	padding-left:5px;
-	margin-bottom: -15px;
+.work_experience_4 {
+	font-family: 'Roboto Slab', serif;
 }
 
 .work_experience_4 ul {
 	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
+	border: 10px solid #dbdbdb;
 }
 
-.work_experience_5 h3 {
-	margin-bottom: -20px;
-}
-.work_experience_5 h4 {
-	padding-left:5px;
-	margin-bottom: -15px;
+.work_experience_5 {
+	font-family: 'Roboto Slab', serif;
 }
 
 .work_experience_5 ul {
 	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
+	border: 10px solid #dbdbdb;
 }
 
 .education_title {
-	margin-bottom: -15px;
+	font-family: 'Roboto Slab', serif;
 }
 
-.education_1 h3 {
-	margin-bottom: -20px;
+.education {
+	font-family: 'Roboto Slab', serif;
 }
 
-.education_1 h4 {
-	padding-left: 5px;
-	margin-bottom: -15px;
-	line-height: 15px;
-}
-
-.education_1 ul {
+.education ul {
 	background-color: #EFEFEF;
-	border: 3px solid #dbdbdb;
-	margin-top: 19px;
-}
-
-.education_2 h3 {
-	margin-bottom:-20px;
-}
-
-.education_2 h4 {
-	padding-left: 5px;
-	margin-bottom: -15px;
-	line-height: 15px;
+	border: 10px solid #dbdbdb;
 }
