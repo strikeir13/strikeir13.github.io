@@ -79,3 +79,16 @@
 	background-color: #EFEFEF;
 	border: 10px solid #dbdbdb;
 }
+
+.volunteer_title {
+	font-family: 'Roboto Slab', serif;
+}
+
+.volunteer {
+	font-family: 'Roboto Slab', serif;
+}
+
+.volunteer ul {
+	background-color: #EFEFEF;
+	border: 10px solid #dbdbdb;
+}
